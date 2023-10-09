@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @emilych7
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Javascript and HTML
 - 💞️ I’m looking to collaborate on any projects!
-- 📫 You can reach me at emilyhernandezBVT2023@gmail.com
+- 📫 You can best reach me at emilychernandez17@gmail.com
 
 <!---
 emilych7/emilych7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
